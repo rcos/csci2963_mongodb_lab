@@ -37,7 +37,7 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8db"},"definition":" adj. Incorrect to the point of humorous.","word":"Faulty"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8dc"},"definition":" n. F*cking Computer Nerd (one of the few cases in which ``nerd'' is preferred to ``knurd'' because ``FCK'' is too similar to a very favorite word of all RPI students). Not uncommon for this type to be verbally fluent in Fortran or Assembler.","word":"FCN"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8dd"},"definition":" exp. A word of disgust.","word":"Feh"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8de"},"definition":" v. 1. to boast. 2. to complain, sometimes vehemently. --- n. Someone who flames.","word":"Flame"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8de"},"definition":"Hot","word":"Flame"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8df"},"definition":" v.  (RPI) To secure one's stay at RPI with grades too low to transfer elsewhere. --- adj. Flunked In.","word":"Flunking In"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8e0"},"definition":" n.  (Niven) Sea-bottom ooze; very fine, fertile mud which is useful for gardens and green, growing things. (Like mold.) Also see: DAKA.","word":"Flup"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8e1"},"definition":" n., acronym. ``F*ck Off And Die.''","word":"FOAD"}
@@ -145,3 +145,4 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b947"},"definition":" n. Calzone, a folded-over za.","word":"Zone"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
+{"_id":{"$oid":"5ca6cfded8215108d08291ad"},"word":"crick","definition":"n. According to many upstate New York residents, a small stream."}
