@@ -11,4 +11,4 @@ def random_word_requester():
 
 
 if __name__ == '__main__':
-    print random_word_requester()
+    print(random_word_requester())
